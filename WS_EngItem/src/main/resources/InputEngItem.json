@@ -6,10 +6,10 @@
 					"title": "My name1",
 					"description": "My description 1",
 					"dseng:EnterpriseReference": {
-						"partNumber": "1234.."
+						"partNumber": "12345"
 					},
 					"dseno:EnterpriseAttributes": {
-						"Attribute DB Name": "Attribute DB Value"
+						"IsManufacturable": "TRUE"
 					},
 					"dscfg:Configured": {
 						"enabledCriteria": [
@@ -28,11 +28,11 @@
 					"title": "My name2",
 					"description": "My description 2",
 					"dseng:EnterpriseReference": {
-						"partNumber": "1234.."
+						"partNumber": "12346"
 					},
 					"dseno:EnterpriseAttributes": {
-						"Attribute DB Name": "Attribute DB Value"
-					},
+						"IsManufacturable": "TRUE"
+					},					
 					"dscfg:Configured": {
 						"enabledCriteria": [
 							"ModelVersion",

@@ -1,0 +1,44 @@
+[
+	{
+		"items": [
+			{
+				"attributes": {
+					"title": "My name1",
+					"description": "My description 1",
+					"dseng:EnterpriseReference": {
+						"partNumber": "12345"
+					},
+					"dseno:EnterpriseAttributes": {
+						"VName": "Attribute DB Value"
+					},
+					"dscfg:Configured": {
+						"enabledCriteria": [
+							"ModelVersion",
+							"Variant"
+						]
+					}
+				}
+			}
+		]
+	},
+	{
+		"items": [
+			{
+				"attributes": {
+					"title": "My name2",
+					"description": "My description 2",
+					"dseng:EnterpriseReference": {
+						"partNumber": "12346"
+					},
+					
+					"dscfg:Configured": {
+						"enabledCriteria": [
+							"ModelVersion",
+							"Variant"
+						]
+					}
+				}
+			}
+		]
+	}
+]

@@ -20,8 +20,8 @@ import com.WebServiceToolBox.genLog;
 public class PartManager {
 
 	static final Logger logger = LogManager.getLogger(PartManager.class);
-	static final String type = "IngItem";
-	static final String step = "loading IngItem";
+	static final String type = "Part";
+	static final String step = "loading Part";
 
 	Connection con;
 	genLog genlog;
